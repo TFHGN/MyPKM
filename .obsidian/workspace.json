@@ -11,20 +11,28 @@
             "id": "e8317133e2c91e1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "zLibrary.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zLibrary"
             }
           },
           {
             "id": "8ddda7b2cd465eb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "拉普拉斯变换  Laplace Transform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "拉普拉斯变换  Laplace Transform"
             }
           },
           {
@@ -41,7 +49,8 @@
               "title": "常微分方程  Ordinary Differential Equition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b05efe5c202e385",
@@ -204,17 +212,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e8317133e2c91e1e",
+  "active": "8ddda7b2cd465eb0",
   "lastOpenFiles": [
-    "MyPKM",
-    "常微分方程  Ordinary Differential Equition.md",
-    "微分方程  Differential Equition.md",
-    "微分方程  Ordinary Differential Equition.md",
-    "图书馆五律  Five Laws of Library Science.md",
-    "材料力学 Material Mechanism.md",
     "圣维南原理  Saint-Venant's Principle.md",
-    "拉格朗日乘子法  Lagrange Multiplier.md",
     "zLibrary.md",
+    "拉格朗日乘子法  Lagrange Multiplier.md",
+    "拉普拉斯变换  Laplace Transform.md",
+    "常微分方程  Ordinary Differential Equition.md",
+    "常微分方程 Ordinary Differential Equition.md",
+    "图书馆五律  Five Laws of Library Science.md",
+    "微分方程  Differential Equition.md",
+    "常微分方程.md",
+    "材料力学 Material Mechanism.md",
+    "常系数线性微分方程.md",
+    "MyPKM",
+    "微分方程  Ordinary Differential Equition.md",
     "[优化-拉格朗日乘子法.md",
     "Pictures/拉格朗日乘子法例子.png",
     "Pictures/圣维南原理  Saint-Venant's Principle2.png",
