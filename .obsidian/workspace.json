@@ -22,19 +22,35 @@
             }
           },
           {
-            "id": "912ee69da562a28e",
+            "id": "99ebdee220f26e8d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260330212333.png"
+                "file": "传递函数  Transfer Function.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260330212333"
+              "icon": "lucide-file",
+              "title": "传递函数  Transfer Function"
             }
           },
           {
-            "id": "9382a514f9759f89",
+            "id": "cc07e3d17d645e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "热力学第一定律.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "热力学第一定律"
+            }
+          },
+          {
+            "id": "c18971e7b6843487",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +137,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "热力学第一定律.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -130,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "热力学第一定律 的反向链接列表"
             }
           },
           {
@@ -200,6 +217,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "aac8d52170fe595e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
@@ -218,52 +245,22 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9382a514f9759f89",
+  "active": "cc07e3d17d645e16",
   "lastOpenFiles": [
-    "Diary/2026.4.12.md",
-    "时域分析 Time Domain Analysis.md",
-    "Pasted image 20260330212333.png",
-    "协议  Portocol.md",
-    "测试优先编程  Test-first Programming.md",
-    "Diary",
-    "Pasted image 20260411222219.png",
-    "材料力学 Material Mechanism.md",
-    "常微分方程  Ordinary Differential Equition.md",
     "传递函数  Transfer Function.md",
-    "拉普拉斯变换  Laplace Transform.md",
+    "热力学第一定律.md",
+    "常微分方程  Ordinary Differential Equition.md",
     "拉格朗日乘子法  Lagrange Multiplier.md",
+    "拉普拉斯变换  Laplace Transform.md",
     "圣维南原理  Saint-Venant's Principle.md",
-    "分组交换.md",
-    "文档测试 Doc Test.md",
-    "图书馆五律  Five Laws of Library Science.md",
-    "时延 Delay.md",
+    "内能  Internal Energy.md",
+    "时域分析 Time Domain Analysis.md",
     "微分方程  Differential Equition.md",
-    "未命名.md",
-    "电路交换.md",
-    "物理媒体 Physical Medium.md",
-    "接入网  Access Network.md",
-    "因特网  Internet.md",
-    "Pasted image 20260330211515.png",
-    "Pictures/Portocol.png",
-    "未命名.base",
-    "2026.3.30.md",
-    "Pictures/zeta.gif",
-    "Pictures/omegan.gif",
-    "Video Project 2.gif",
+    "材料力学 Material Mechanism.md",
     "zLibrary.md",
-    "Pictures/二阶系统.png",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-03-28 19.22.25.excalidraw.md",
-    "Excalidraw",
-    "Pictures/一阶系统单位加速度相应.png",
-    "Pasted image 20260327165715.png",
-    "常微分方程 Ordinary Differential Equition.md",
-    "常微分方程.md",
-    "MyPKM",
-    "Pictures"
+    "图书馆五律  Five Laws of Library Science.md"
   ]
 }
