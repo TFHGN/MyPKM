@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70917594cc71dd27",
+            "id": "c18971e7b6843487",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "c18971e7b6843487",
+            "id": "5ab84952f75cff9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "时域分析 Time Domain Analysis.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "时域分析 Time Domain Analysis"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ],
@@ -178,13 +178,23 @@
               "icon": "lucide-list",
               "title": "圣维南原理 的大纲"
             }
+          },
+          {
+            "id": "b3d51fe376ffcf5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +205,19 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c18971e7b6843487",
+  "active": "5ab84952f75cff9f",
   "lastOpenFiles": [
+    "常微分方程  Ordinary Differential Equition.md",
+    "Excalidraw/Drawing 2026-03-28 19.22.25.excalidraw.md",
+    "时域分析 Time Domain Analysis.md",
+    "Excalidraw",
     "拉普拉斯变换  Laplace Transform.md",
     "拉格朗日乘子法  Lagrange Multiplier.md",
-    "时域分析 Time Domain Analysis.md",
     "圣维南原理  Saint-Venant's Principle.md",
     "Pictures/一阶系统单位加速度相应.png",
     "Pasted image 20260327165715.png",
@@ -212,7 +227,6 @@
     "图书馆五律  Five Laws of Library Science.md",
     "zLibrary.md",
     "Pictures/一阶系统的单位跃阶相应曲线.png",
-    "常微分方程  Ordinary Differential Equition.md",
     "常微分方程 Ordinary Differential Equition.md",
     "常微分方程.md",
     "材料力学 Material Mechanism.md",
