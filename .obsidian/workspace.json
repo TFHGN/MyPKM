@@ -29,14 +29,30 @@
               "state": {
                 "aFile": ".obsidian/community-plugins.json",
                 "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "title": "Diff: community-plugins.json  (Index)"
+            }
+          },
+          {
+            "id": "04d8995880552828",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "传递函数  Transfer Function.md",
+                "bFile": "传递函数  Transfer Function.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 传递函数  Transfer Function  (Index)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,8 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ab84952f75cff9f",
+  "active": "04d8995880552828",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "传递函数  Transfer Function.md",
     "常微分方程  Ordinary Differential Equition.md",
     "Excalidraw/Drawing 2026-03-28 19.22.25.excalidraw.md",
     "时域分析 Time Domain Analysis.md",

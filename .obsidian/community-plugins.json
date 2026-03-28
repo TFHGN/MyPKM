@@ -1,6 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
+<<<<<<< HEAD
   "obsidian-git",
   "templater-obsidian"
+=======
+  "last-modified-timestamp-in-status-bar"
+>>>>>>> origin/master
 ]
