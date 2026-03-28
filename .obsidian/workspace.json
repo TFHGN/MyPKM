@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "热力学第一定律.md",
+                "file": "拉格朗日乘子法  Lagrange Multiplier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热力学第一定律"
+              "title": "拉格朗日乘子法  Lagrange Multiplier"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "热力学第一定律.md",
+                "file": "拉格朗日乘子法  Lagrange Multiplier.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "热力学第一定律 的反向链接列表"
+              "title": "拉格朗日乘子法  Lagrange Multiplier 的反向链接列表"
             }
           },
           {
@@ -250,17 +250,17 @@
   },
   "active": "cc07e3d17d645e16",
   "lastOpenFiles": [
-    "传递函数  Transfer Function.md",
-    "热力学第一定律.md",
-    "常微分方程  Ordinary Differential Equition.md",
-    "拉格朗日乘子法  Lagrange Multiplier.md",
-    "拉普拉斯变换  Laplace Transform.md",
+    "图书馆五律  Five Laws of Library Science.md",
     "圣维南原理  Saint-Venant's Principle.md",
-    "内能  Internal Energy.md",
     "时域分析 Time Domain Analysis.md",
+    "拉普拉斯变换  Laplace Transform.md",
+    "拉格朗日乘子法  Lagrange Multiplier.md",
     "微分方程  Differential Equition.md",
-    "材料力学 Material Mechanism.md",
     "zLibrary.md",
-    "图书馆五律  Five Laws of Library Science.md"
+    "热力学第一定律.md",
+    "材料力学 Material Mechanism.md",
+    "传递函数  Transfer Function.md",
+    "常微分方程  Ordinary Differential Equition.md",
+    "内能  Internal Energy.md"
   ]
 }
