@@ -46,23 +46,9 @@
               "icon": "lucide-file",
               "title": "时域分析 Time Domain Analysis"
             }
-          },
-          {
-            "id": "8760602d401c2ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "测试优先编程  Test-first Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "测试优先编程  Test-first Programming"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,12 +222,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12b60437983e689f",
+  "active": "9382a514f9759f89",
   "lastOpenFiles": [
+    "Diary/2026.4.12.md",
+    "时域分析 Time Domain Analysis.md",
+    "Pasted image 20260330212333.png",
+    "协议  Portocol.md",
+    "测试优先编程  Test-first Programming.md",
     "Diary",
     "Pasted image 20260411222219.png",
-    "时域分析 Time Domain Analysis.md",
-    "测试优先编程  Test-first Programming.md",
     "材料力学 Material Mechanism.md",
     "常微分方程  Ordinary Differential Equition.md",
     "传递函数  Transfer Function.md",
@@ -253,13 +242,11 @@
     "图书馆五律  Five Laws of Library Science.md",
     "时延 Delay.md",
     "微分方程  Differential Equition.md",
-    "Pasted image 20260330212333.png",
     "未命名.md",
     "电路交换.md",
     "物理媒体 Physical Medium.md",
     "接入网  Access Network.md",
     "因特网  Internet.md",
-    "协议  Portocol.md",
     "Pasted image 20260330211515.png",
     "Pictures/Portocol.png",
     "未命名.base",

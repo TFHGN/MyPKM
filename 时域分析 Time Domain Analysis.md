@@ -89,11 +89,15 @@ $$
 $$
 \frac{1}{\omega_{n}^{2}}\frac{d^{2}c(t)}{dt^{2}}+\frac{2\zeta}{\omega_{n}} \frac{dc(t)}{dt}+ c(t) = r(t)
 $$
-0 输入条件下，其闭环传递函数为：
+0 输入条件下，其开环传递函数为:
 $$
-G(s) = \frac{\omega_{n}^{2}}{s^{2}+2\zeta \omega_{n}s+\omega_{n}^{2}}
+	G_{o}(s) = \frac{K}{s(T_{m} s+1)}
 $$
-*  $\omega_{n} = \frac{K}{T_m}$      为自然频率（无阻尼振荡频率）
+对应闭环传递函数为：
+$$
+G(s) = \frac{G_{o}(s)}{G_{o}(s) - 1}  = \frac{\omega_{n}^{2}}{s^{2}+2\zeta \omega_{n}s+\omega_{n}^{2}}
+$$
+*  $\omega_{n} = \sqrt{\frac{K}{T_m}}$      为自然频率（无阻尼振荡频率）
 *   $\zeta\,\,=\frac{1}{2\sqrt{ T_{m}K }}$  为阻尼比
 *  $K$  为 [[开环增益]]
 *  $T_{m}$ 为 [[机电时间常数]]
@@ -187,5 +191,7 @@ $$
 	t_{s} = 
 $$
 ![[Pasted image 20260330212333.png]]
+
+#### 误差分析
 
 
