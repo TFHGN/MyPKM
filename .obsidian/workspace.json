@@ -4,67 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "efa0e7be04cc9026",
+        "id": "0e884b688ca608e6",
         "type": "tabs",
         "children": [
           {
-            "id": "bcba63047fa4a458",
+            "id": "53854257bf090941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时延 Delay.md",
+                "file": "PointLio Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时延 Delay"
+              "title": "PointLio Review"
             }
           },
           {
-            "id": "99ebdee220f26e8d",
+            "id": "98c8424b91df0269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "传递函数  Transfer Function.md",
+                "file": "zLibrary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传递函数  Transfer Function"
+              "title": "zLibrary"
             }
           },
           {
-            "id": "cc07e3d17d645e16",
+            "id": "c9b6a255f1d64b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "拉格朗日乘子法  Lagrange Multiplier.md",
+                "file": "2023 年 A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拉格朗日乘子法  Lagrange Multiplier"
+              "title": "2023 年 A"
             }
           },
           {
-            "id": "c18971e7b6843487",
+            "id": "9d72f3eb82534008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "时域分析 Time Domain Analysis.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-08-25 14.41.18.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "时域分析 Time Domain Analysis"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-25 14.41.18.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拉格朗日乘子法  Lagrange Multiplier.md",
+                "file": "热力学第一定律  First Law of Thermodynamic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "拉格朗日乘子法  Lagrange Multiplier 的反向链接列表"
+              "title": "热力学第一定律  First Law of Thermodynamic 的反向链接列表"
             }
           },
           {
@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,23 +245,45 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cc07e3d17d645e16",
+  "active": "c9b6a255f1d64b29",
   "lastOpenFiles": [
-    "图书馆五律  Five Laws of Library Science.md",
-    "圣维南原理  Saint-Venant's Principle.md",
-    "时域分析 Time Domain Analysis.md",
-    "拉普拉斯变换  Laplace Transform.md",
-    "拉格朗日乘子法  Lagrange Multiplier.md",
-    "微分方程  Differential Equition.md",
     "zLibrary.md",
-    "热力学第一定律.md",
-    "材料力学 Material Mechanism.md",
-    "传递函数  Transfer Function.md",
+    "2023 年 A.md",
+    "未命名.canvas",
+    "Excalidraw/serial_driver.md",
+    "Excalidraw/Drawing 2026-08-28 14.23.40.excalidraw.md",
+    "PointLio Review.md",
+    "Excalidraw/Drawing 2026-08-25 14.41.18.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-25 16.09.53.excalidraw.md",
+    "pb_omni_pid_pursuit_controller 审查报告.md",
+    "Missing Cemester.md",
+    "GoogleTest.md",
+    "API-key.md",
+    "重构 Refactor.md",
+    "性能统计.md",
+    "文档.md",
+    "未命名.md",
+    "未命名.base",
+    "热力学第一定律  First Law of Thermodynamic.md",
     "常微分方程  Ordinary Differential Equition.md",
-    "内能  Internal Energy.md"
+    "拉格朗日乘子法  Lagrange Multiplier.md",
+    "传递函数  Transfer Function.md",
+    "材料力学 Material Mechanism.md",
+    "Excalidraw/terrainanalysis.md",
+    "微分方程  Differential Equition.md",
+    "图书馆五律  Five Laws of Library Science.md",
+    "时域分析 Time Domain Analysis.md",
+    "圣维南原理  Saint-Venant's Principle.md",
+    "内能  Internal Energy.md",
+    "Pasted Image 20260820191132_991.png",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "未命名",
+    "Pasted image 20260509165743.png",
+    "Excalidraw"
   ]
 }
